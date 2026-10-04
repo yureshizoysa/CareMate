@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "CareMateApp",
-    "slug": "CareMateApp-New",
+    "slug": "yureshit",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/logo.png",
@@ -24,11 +24,12 @@
     },
     "extra": {
       "eas": {
-        "projectId": "15a843dd-df39-4ec0-b8b0-8b1c8d697709"
+        "projectId": "b8dd3d4b-ffb0-4d10-b27c-6e8a701d0276"
       }
     },
     "plugins": [
       "@react-native-community/datetimepicker"
-    ]
+    ],
+    "owner": "yureshi99s-team"
   }
 }
